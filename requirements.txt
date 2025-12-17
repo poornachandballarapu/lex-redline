@@ -1,0 +1,6 @@
+streamlit
+pypdf
+python-docx
+redlines
+beautifulsoup4
+markdown
