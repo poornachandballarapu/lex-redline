@@ -7,7 +7,7 @@
 
 ### **Intelligent Legal Document Comparison Engine**
 
-**🔴 Live Demo:** *[ 🚀 Deployment In Progress... Check back in 5 minutes! ]*
+**🔴 Live Demo:** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lex-redline.streamlit.app/)
 
 ---
 
