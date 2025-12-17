@@ -45,3 +45,11 @@ This tool uses a custom **Recursive HTML-to-DOCX Parser**.
 
 ### ⚖️ Disclaimer
 *This tool is a prototype developed for educational purposes. It does not constitute legal advice.*
+
+---
+
+### 👨‍💻 About the Developer
+Built by **Poorna Chand Ballarapu**, a dual-degree student bridging the gap between Law and Technology.
+* **Law:** 3rd Year B.A. LL.B (Hons) at **NALSAR University of Law**.
+* **Tech:** B.S. in Data Science & Applications at **IIT Madras**.
+* **Focus:** Leveraging Computational Law and NLP to automate complex legal workflows in M&A and Finance.
